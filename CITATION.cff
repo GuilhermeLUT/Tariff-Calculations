@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+title: "Open-Source DSO Tariff Distribution Calculator: A Case Study from Finland"
+
+authors:
+  - family-names: "Mutru"
+    given-names: "Tuomo"
+    affiliation: "LUT University - LUT School of Energy Systems (LES)"
+    orcid: "https://orcid.org/0009-0007-7343-065X"
+
+  - family-names: "dos Reis Ribeiro"
+    given-names: "Guilherme"
+    affiliation: "Electric Mobility Research Center (EMRC)"
+    orcid: "https://orcid.org/0009-0005-1807-3077"
+
+  - family-names: "Güler"
+    given-names: "Helin"
+    affiliation: "Electric Mobility Research Center (EMRC)"
+    orcid: "https://orcid.org/0009-0008-3093-1224"
+
+version: "1.0.0"
+date-released: 2026-11-06
+
+repository-code: "https://github.com/GuilhermeLUT/Tariff-Calculations"
+
+license: "Creative Commons Attribution Share Alike 4.0 International"
+
+keywords:
+  - Distribution System Operator (DSO)
+  - Medium-voltage network
+  - Grig tariffs
+  - Heavy-Duty Fast Charging Station (HDCS)
+  - Spatial analysis
+
+abstract: >
+  This GitHub repository allows to analyze Finnish Distribution System Operator (DSO) medium-voltage (MV) grid tariff structure and offers to have annual cost comparison between the DSO areas. The data screened from all 81 operating DSOs, out of which 66 are open for public industries and they share their grid tariffs online. For each row, the dataset lists all available pricing schemes from electricy consumption and Battery Energy Storage System (BESS) connection. The price distribution between DSO areas are conducted with a single Heavy-Duty Charging Station (HDCS) installation proposal, what full year operation would cost in each DSO area. Here least cost pricing scheme within each DSO area was selected. The results from case study show that the location of HDCS will affect to the operational costs significantly, variating between X - Y thousand euros annually, where the median cost was Z euros. This indicates that the grid tariffs should be considered as a part of decision making and planning steps, to minimize the grid costs from the industry operator. However, this is the case only witnessed in the given study, which is not a promise for other cases and parameters. For other industry cases of more specific cases, the authors suggest to make the analysis individually before considering too straight conclusions from given case study.
+  
+  
