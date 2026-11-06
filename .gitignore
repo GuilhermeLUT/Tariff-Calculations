@@ -1,0 +1,5 @@
+*.png
+*.txt
+*.csv
+!/data_preprocessed_edited.csv
+!/truck_parking_probabilities_Otteny_etal.csv
