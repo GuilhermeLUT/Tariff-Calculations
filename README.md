@@ -11,4 +11,5 @@ The results from this case study suggest that the location of HDCS will have a s
 However, these are the results of a single preliminary case study, and consequently, similar results with other cases or parameters are not guaranteed. For different or more specific industry cases, the authors have shared all codes and datasets to the public, which allows the users to make, modify, and share an individual analysis for each case under the terms of CC-BY-SA 4.0 license. 
 
 For citing, use:
+
 Mutru, T., dos Reis Ribeiro, G., & Güler, H. (2026). Open-Source DSO Tariff Distribution Calculator: A Case Study from Finland (Version 1.0.0) [Computer software]. GitHub - GuilhermeLUT/Tariff-Calculations. Available: https://github.com/GuilhermeLUT/Tariff-Calculations
