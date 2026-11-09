@@ -1,4 +1,4 @@
-We are happy that you our repository!
+We are happy that you found our repository!
 
 This GitHub repository allows the analysis of the Finnish Distribution System Operator (DSO) medium-voltage (MV) grid tariff structure and offers the possibility for an annual cost comparison between the DSO areas in Finland.
 
